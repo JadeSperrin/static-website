@@ -1,5 +1,5 @@
 
-# Siterig website setup
+# Static website setup
 First switch to the correct version of node with `nvm use`. Then run npm install to obtain required packages and dependencies.
 
 
