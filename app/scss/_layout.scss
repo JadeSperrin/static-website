@@ -1,0 +1,21 @@
+
+.container{
+  @apply px-4 ml-auto mr-auto;
+  max-width: 75rem;
+}
+.container--large{
+  @apply px-4 ml-auto mr-auto;
+  max-width: 90 rem;
+}
+.container--offset {
+  @apply px-4 ml-auto;
+  max-width: 75rem;
+}
+
+.integrations{
+  .integrations__image{
+    @apply mx-6 my-8;
+    max-height: 30px;
+    filter: grayscale(0);
+  }
+}

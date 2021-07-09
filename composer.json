@@ -1,0 +1,11 @@
+{
+  "name": "rockandscissor/siterig",
+  "description": "The supporting website for the SiteRig app",
+  "authors": [
+      {
+          "name": "Jade Sperrin",
+          "email": "jade@rockandscissor.com"
+      }
+  ]
+}
+

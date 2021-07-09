@@ -1,0 +1,31 @@
+{
+  "name": "static-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:JadeSperrin/static-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/JadeSperrin/static-website.git#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.0.2",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-babel-minify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^9.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "postcss": "^8.3.5"
+  },
+  "dependencies": {
+    "tailwindcss": "^2.2.4"
+  }
+}
